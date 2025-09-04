@@ -1,0 +1,1207 @@
+Started parsing...
+Finished parsing.
+=== TestCase 1 ===
+Makespan: 74
+
+Schedule:
+Subtask 1 (O1): ECU E3 Core 1, Start 0, Finish 6
+Subtask 2 (O2): ECU E1 Core 1, Start 6, Finish 12
+Subtask 3 (O3): ECU E3 Core 2, Start 6, Finish 11
+Subtask 4 (O4): ECU E2 Core 1, Start 12, Finish 24
+Subtask 5 (O5): ECU E4 Core 1, Start 6, Finish 16
+Subtask 6 (O1): ECU E4 Core 2, Start 0, Finish 10
+Subtask 7 (O2): ECU E3 Core 1, Start 6, Finish 11
+Subtask 8 (O3): ECU E4 Core 2, Start 10, Finish 16
+Subtask 9 (O4): ECU E3 Core 1, Start 11, Finish 14
+Subtask 10 (O5): ECU E3 Core 2, Start 11, Finish 15
+Subtask 11 (O1): ECU E3 Core 1, Start 14, Finish 26
+Subtask 12 (O2): ECU E1 Core 1, Start 26, Finish 30
+Subtask 13 (O3): ECU E3 Core 2, Start 26, Finish 31
+Subtask 14 (O4): ECU E4 Core 1, Start 30, Finish 35
+Subtask 15 (O5): ECU E4 Core 2, Start 31, Finish 33
+Subtask 16 (O1): ECU E2 Core 1, Start 24, Finish 30
+Subtask 17 (O2): ECU E3 Core 1, Start 26, Finish 32
+Subtask 18 (O3): ECU E1 Core 1, Start 30, Finish 36
+Subtask 19 (O4): ECU E2 Core 1, Start 30, Finish 35
+Subtask 20 (O5): ECU E3 Core 2, Start 32, Finish 34
+Subtask 21 (O6): ECU E3 Core 1, Start 36, Finish 42
+Subtask 22 (O1): ECU E4 Core 2, Start 33, Finish 36
+Subtask 23 (O2): ECU E3 Core 2, Start 34, Finish 39
+Subtask 24 (O3): ECU E2 Core 1, Start 36, Finish 40
+Subtask 25 (O4): ECU E4 Core 1, Start 35, Finish 43
+Subtask 26 (O5): ECU E4 Core 2, Start 36, Finish 46
+Subtask 27 (O1): ECU E3 Core 2, Start 39, Finish 51
+Subtask 28 (O2): ECU E3 Core 1, Start 42, Finish 46
+Subtask 29 (O3): ECU E2 Core 1, Start 46, Finish 56
+Subtask 30 (O4): ECU E1 Core 1, Start 46, Finish 50
+Subtask 31 (O1): ECU E4 Core 1, Start 43, Finish 47
+Subtask 32 (O2): ECU E3 Core 1, Start 46, Finish 50
+Subtask 33 (O3): ECU E4 Core 2, Start 46, Finish 50
+Subtask 34 (O4): ECU E4 Core 1, Start 50, Finish 60
+Subtask 35 (O5): ECU E3 Core 1, Start 50, Finish 54
+Subtask 36 (O1): ECU E1 Core 1, Start 50, Finish 56
+Subtask 37 (O2): ECU E4 Core 2, Start 50, Finish 52
+Subtask 38 (O3): ECU E3 Core 2, Start 52, Finish 58
+Subtask 39 (O4): ECU E4 Core 2, Start 52, Finish 60
+Subtask 40 (O5): ECU E3 Core 1, Start 54, Finish 56
+Subtask 41 (O1): ECU E2 Core 1, Start 56, Finish 62
+Subtask 42 (O2): ECU E1 Core 1, Start 56, Finish 59
+Subtask 43 (O3): ECU E3 Core 1, Start 62, Finish 74
+Subtask 44 (O4): ECU E1 Core 1, Start 59, Finish 61
+Subtask 45 (O1): ECU E3 Core 2, Start 58, Finish 64
+Subtask 46 (O2): ECU E4 Core 1, Start 60, Finish 64
+Subtask 47 (O3): ECU E4 Core 2, Start 64, Finish 72
+Subtask 48 (O4): ECU E3 Core 2, Start 64, Finish 67
+Subtask 49 (O5): ECU E1 Core 1, Start 61, Finish 64
+Load Imbalance: 78
+Objective Function Value: 0.2461
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.030 MB
+=== TestCase 2 ===
+Makespan: 89
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 1, Start 0, Finish 8
+Subtask 2 (O2): ECU E4 Core 2, Start 0, Finish 6
+Subtask 3 (O3): ECU E4 Core 2, Start 6, Finish 10
+Subtask 4 (O4): ECU E4 Core 1, Start 8, Finish 10
+Subtask 5 (O5): ECU E4 Core 1, Start 10, Finish 14
+Subtask 6 (O1): ECU E4 Core 2, Start 10, Finish 13
+Subtask 7 (O2): ECU E3 Core 1, Start 12, Finish 18
+Subtask 8 (O3): ECU E4 Core 2, Start 18, Finish 24
+Subtask 9 (O4): ECU E2 Core 1, Start 18, Finish 24
+Subtask 10 (O5): ECU E1 Core 1, Start 24, Finish 30
+Subtask 11 (O1): ECU E3 Core 1, Start 0, Finish 12
+Subtask 12 (O2): ECU E4 Core 1, Start 14, Finish 19
+Subtask 13 (O3): ECU E2 Core 1, Start 12, Finish 14
+Subtask 14 (O4): ECU E3 Core 2, Start 14, Finish 22
+Subtask 15 (O5): ECU E1 Core 1, Start 0, Finish 12
+Subtask 16 (O1): ECU E3 Core 1, Start 18, Finish 23
+Subtask 17 (O2): ECU E2 Core 1, Start 24, Finish 34
+Subtask 18 (O3): ECU E4 Core 1, Start 34, Finish 36
+Subtask 19 (O4): ECU E3 Core 2, Start 22, Finish 25
+Subtask 20 (O1): ECU E3 Core 1, Start 23, Finish 35
+Subtask 21 (O2): ECU E4 Core 2, Start 24, Finish 28
+Subtask 22 (O3): ECU E3 Core 2, Start 28, Finish 30
+Subtask 23 (O4): ECU E4 Core 2, Start 35, Finish 41
+Subtask 24 (O1): ECU E1 Core 1, Start 30, Finish 40
+Subtask 25 (O2): ECU E3 Core 2, Start 40, Finish 46
+Subtask 26 (O3): ECU E2 Core 1, Start 34, Finish 44
+Subtask 27 (O4): ECU E3 Core 1, Start 46, Finish 49
+Subtask 28 (O5): ECU E4 Core 1, Start 40, Finish 46
+Subtask 29 (O1): ECU E1 Core 1, Start 40, Finish 44
+Subtask 30 (O2): ECU E4 Core 2, Start 41, Finish 46
+Subtask 31 (O3): ECU E3 Core 2, Start 46, Finish 48
+Subtask 32 (O4): ECU E1 Core 1, Start 46, Finish 51
+Subtask 33 (O5): ECU E2 Core 1, Start 48, Finish 53
+Subtask 34 (O1): ECU E1 Core 1, Start 51, Finish 63
+Subtask 35 (O2): ECU E4 Core 1, Start 63, Finish 65
+Subtask 36 (O3): ECU E4 Core 2, Start 65, Finish 70
+Subtask 37 (O4): ECU E3 Core 2, Start 63, Finish 69
+Subtask 38 (O1): ECU E2 Core 1, Start 53, Finish 59
+Subtask 39 (O2): ECU E3 Core 1, Start 49, Finish 51
+Subtask 40 (O3): ECU E3 Core 1, Start 59, Finish 64
+Subtask 41 (O4): ECU E2 Core 1, Start 59, Finish 63
+Subtask 42 (O5): ECU E3 Core 1, Start 64, Finish 72
+Subtask 43 (O1): ECU E4 Core 1, Start 65, Finish 73
+Subtask 44 (O2): ECU E2 Core 1, Start 63, Finish 68
+Subtask 45 (O3): ECU E3 Core 2, Start 69, Finish 77
+Subtask 46 (O4): ECU E1 Core 1, Start 63, Finish 69
+Subtask 47 (O5): ECU E2 Core 1, Start 77, Finish 89
+Load Imbalance: 33
+Objective Function Value: 0.1501
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.029 MB
+=== TestCase 3 ===
+Makespan: 96
+
+Schedule:
+Subtask 1 (O1): ECU E2 Core 1, Start 0, Finish 4
+Subtask 2 (O2): ECU E3 Core 1, Start 0, Finish 12
+Subtask 3 (O3): ECU E4 Core 1, Start 18, Finish 22
+Subtask 4 (O4): ECU E1 Core 1, Start 0, Finish 4
+Subtask 5 (O5): ECU E3 Core 2, Start 4, Finish 6
+Subtask 6 (O6): ECU E1 Core 1, Start 6, Finish 18
+Subtask 7 (O1): ECU E4 Core 2, Start 0, Finish 2
+Subtask 8 (O2): ECU E4 Core 2, Start 2, Finish 8
+Subtask 9 (O3): ECU E2 Core 1, Start 4, Finish 16
+Subtask 10 (O4): ECU E3 Core 2, Start 6, Finish 9
+Subtask 11 (O5): ECU E4 Core 2, Start 9, Finish 13
+Subtask 12 (O1): ECU E3 Core 2, Start 9, Finish 15
+Subtask 13 (O2): ECU E2 Core 1, Start 16, Finish 20
+Subtask 14 (O3): ECU E3 Core 1, Start 12, Finish 16
+Subtask 15 (O4): ECU E4 Core 2, Start 20, Finish 24
+Subtask 16 (O1): ECU E3 Core 2, Start 15, Finish 27
+Subtask 17 (O2): ECU E3 Core 1, Start 27, Finish 33
+Subtask 18 (O3): ECU E4 Core 1, Start 22, Finish 28
+Subtask 19 (O4): ECU E4 Core 2, Start 27, Finish 31
+Subtask 20 (O5): ECU E2 Core 1, Start 33, Finish 41
+Subtask 21 (O1): ECU E3 Core 2, Start 27, Finish 33
+Subtask 22 (O2): ECU E4 Core 1, Start 28, Finish 38
+Subtask 23 (O3): ECU E1 Core 1, Start 38, Finish 43
+Subtask 24 (O4): ECU E4 Core 2, Start 33, Finish 45
+Subtask 25 (O1): ECU E3 Core 1, Start 33, Finish 45
+Subtask 26 (O2): ECU E3 Core 2, Start 33, Finish 38
+Subtask 27 (O3): ECU E2 Core 1, Start 41, Finish 47
+Subtask 28 (O4): ECU E3 Core 2, Start 47, Finish 51
+Subtask 29 (O5): ECU E4 Core 1, Start 38, Finish 40
+Subtask 30 (O1): ECU E4 Core 1, Start 40, Finish 52
+Subtask 31 (O2): ECU E1 Core 1, Start 43, Finish 49
+Subtask 32 (O3): ECU E2 Core 1, Start 52, Finish 56
+Subtask 33 (O4): ECU E1 Core 1, Start 49, Finish 51
+Subtask 33 (O4): ECU E3 Core 1, Start 49, Finish 51
+Subtask 34 (O5): ECU E4 Core 2, Start 45, Finish 51
+Subtask 35 (O6): ECU E3 Core 1, Start 56, Finish 64
+Subtask 36 (O1): ECU E1 Core 1, Start 51, Finish 63
+Subtask 36 (O1): ECU E3 Core 2, Start 51, Finish 63
+Subtask 37 (O2): ECU E4 Core 2, Start 51, Finish 59
+Subtask 38 (O3): ECU E4 Core 1, Start 63, Finish 75
+Subtask 39 (O4): ECU E2 Core 1, Start 75, Finish 83
+Subtask 40 (O5): ECU E4 Core 2, Start 59, Finish 63
+Subtask 41 (O6): ECU E1 Core 1, Start 63, Finish 66
+Subtask 42 (O1): ECU E3 Core 2, Start 63, Finish 71
+Subtask 43 (O2): ECU E1 Core 1, Start 66, Finish 78
+Subtask 44 (O3): ECU E4 Core 2, Start 63, Finish 69
+Subtask 45 (O4): ECU E3 Core 1, Start 64, Finish 68
+Subtask 46 (O5): ECU E3 Core 1, Start 68, Finish 73
+Subtask 47 (O1): ECU E4 Core 2, Start 69, Finish 74
+Subtask 48 (O2): ECU E1 Core 1, Start 78, Finish 84
+Subtask 49 (O3): ECU E3 Core 2, Start 84, Finish 96
+Subtask 50 (O4): ECU E3 Core 1, Start 73, Finish 78
+Subtask 51 (O5): ECU E4 Core 2, Start 78, Finish 82
+Subtask 52 (O6): ECU E4 Core 1, Start 75, Finish 78
+Load Imbalance: 82
+Objective Function Value: 0.2316
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.031 MB
+=== TestCase 4 ===
+Makespan: 71
+
+Schedule:
+Subtask 1 (O1): ECU E2 Core 1, Start 0, Finish 12
+Subtask 2 (O2): ECU E3 Core 2, Start 12, Finish 15
+Subtask 3 (O3): ECU E4 Core 1, Start 12, Finish 15
+Subtask 4 (O4): ECU E1 Core 1, Start 0, Finish 10
+Subtask 5 (O5): ECU E3 Core 1, Start 0, Finish 12
+Subtask 6 (O6): ECU E1 Core 1, Start 10, Finish 20
+Subtask 7 (O1): ECU E4 Core 2, Start 0, Finish 5
+Subtask 8 (O2): ECU E4 Core 2, Start 5, Finish 17
+Subtask 9 (O3): ECU E2 Core 1, Start 12, Finish 16
+Subtask 10 (O4): ECU E3 Core 1, Start 12, Finish 16
+Subtask 11 (O5): ECU E3 Core 2, Start 17, Finish 23
+Subtask 12 (O1): ECU E4 Core 1, Start 15, Finish 27
+Subtask 13 (O2): ECU E2 Core 1, Start 16, Finish 18
+Subtask 14 (O3): ECU E3 Core 1, Start 16, Finish 20
+Subtask 15 (O4): ECU E4 Core 2, Start 17, Finish 25
+Subtask 16 (O5): ECU E2 Core 1, Start 27, Finish 29
+Subtask 17 (O1): ECU E3 Core 1, Start 20, Finish 25
+Subtask 18 (O2): ECU E3 Core 2, Start 23, Finish 27
+Subtask 19 (O3): ECU E3 Core 1, Start 27, Finish 29
+Subtask 20 (O4): ECU E4 Core 2, Start 27, Finish 32
+Subtask 21 (O5): ECU E3 Core 2, Start 27, Finish 30
+Subtask 22 (O6): ECU E1 Core 1, Start 32, Finish 38
+Subtask 23 (O1): ECU E4 Core 1, Start 27, Finish 39
+Subtask 24 (O2): ECU E3 Core 1, Start 29, Finish 35
+Subtask 25 (O3): ECU E2 Core 1, Start 29, Finish 32
+Subtask 26 (O4): ECU E3 Core 2, Start 30, Finish 36
+Subtask 27 (O5): ECU E4 Core 2, Start 32, Finish 36
+Subtask 28 (O6): ECU E2 Core 1, Start 32, Finish 37
+Subtask 29 (O1): ECU E3 Core 1, Start 35, Finish 39
+Subtask 30 (O2): ECU E3 Core 2, Start 39, Finish 43
+Subtask 31 (O3): ECU E4 Core 2, Start 36, Finish 41
+Subtask 32 (O4): ECU E3 Core 1, Start 39, Finish 44
+Subtask 33 (O5): ECU E4 Core 1, Start 39, Finish 43
+Subtask 34 (O1): ECU E2 Core 1, Start 37, Finish 41
+Subtask 35 (O2): ECU E1 Core 1, Start 41, Finish 44
+Subtask 36 (O3): ECU E2 Core 1, Start 41, Finish 47
+Subtask 37 (O4): ECU E4 Core 2, Start 41, Finish 53
+Subtask 38 (O1): ECU E3 Core 2, Start 43, Finish 55
+Subtask 39 (O2): ECU E4 Core 1, Start 43, Finish 47
+Subtask 40 (O3): ECU E1 Core 1, Start 47, Finish 53
+Subtask 41 (O4): ECU E3 Core 1, Start 44, Finish 47
+Subtask 42 (O5): ECU E2 Core 1, Start 47, Finish 53
+Subtask 43 (O1): ECU E3 Core 1, Start 47, Finish 53
+Subtask 44 (O2): ECU E4 Core 1, Start 47, Finish 55
+Subtask 45 (O3): ECU E2 Core 1, Start 53, Finish 57
+Subtask 46 (O4): ECU E1 Core 1, Start 57, Finish 61
+Subtask 47 (O5): ECU E3 Core 1, Start 55, Finish 58
+Subtask 48 (O1): ECU E4 Core 2, Start 53, Finish 57
+Subtask 49 (O2): ECU E3 Core 2, Start 55, Finish 65
+Subtask 50 (O3): ECU E2 Core 1, Start 57, Finish 61
+Subtask 51 (O4): ECU E4 Core 1, Start 65, Finish 71
+Subtask 52 (O5): ECU E4 Core 2, Start 57, Finish 61
+Load Imbalance: 69
+Objective Function Value: 0.2020
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.031 MB
+=== TestCase 5 ===
+Makespan: 89
+
+Schedule:
+Subtask 1 (O1): ECU E3 Core 1, Start 4, Finish 12
+Subtask 2 (O2): ECU E2 Core 1, Start 12, Finish 16
+Subtask 3 (O3): ECU E3 Core 1, Start 12, Finish 16
+Subtask 4 (O4): ECU E1 Core 1, Start 14, Finish 19
+Subtask 5 (O1): ECU E2 Core 1, Start 16, Finish 26
+Subtask 6 (O2): ECU E1 Core 1, Start 26, Finish 34
+Subtask 7 (O3): ECU E3 Core 2, Start 26, Finish 28
+Subtask 8 (O4): ECU E3 Core 1, Start 34, Finish 36
+Subtask 9 (O1): ECU E2 Core 1, Start 26, Finish 36
+Subtask 10 (O2): ECU E4 Core 2, Start 36, Finish 38
+Subtask 11 (O3): ECU E4 Core 1, Start 38, Finish 40
+Subtask 12 (O4): ECU E3 Core 2, Start 36, Finish 38
+Subtask 13 (O5): ECU E3 Core 1, Start 38, Finish 42
+Subtask 14 (O1): ECU E2 Core 1, Start 36, Finish 39
+Subtask 15 (O2): ECU E3 Core 2, Start 39, Finish 45
+Subtask 16 (O3): ECU E1 Core 1, Start 34, Finish 37
+Subtask 17 (O4): ECU E4 Core 2, Start 38, Finish 44
+Subtask 18 (O5): ECU E1 Core 1, Start 37, Finish 42
+Subtask 19 (O1): ECU E2 Core 1, Start 39, Finish 51
+Subtask 20 (O2): ECU E4 Core 1, Start 51, Finish 57
+Subtask 21 (O3): ECU E3 Core 1, Start 42, Finish 52
+Subtask 22 (O4): ECU E4 Core 2, Start 51, Finish 56
+Subtask 23 (O1): ECU E1 Core 1, Start 42, Finish 48
+Subtask 24 (O2): ECU E3 Core 2, Start 48, Finish 52
+Subtask 25 (O3): ECU E3 Core 1, Start 52, Finish 57
+Subtask 26 (O4): ECU E1 Core 1, Start 48, Finish 52
+Subtask 27 (O5): ECU E2 Core 1, Start 57, Finish 65
+Subtask 28 (O6): ECU E1 Core 1, Start 52, Finish 54
+Subtask 29 (O1): ECU E3 Core 2, Start 52, Finish 56
+Subtask 30 (O2): ECU E3 Core 1, Start 0, Finish 4
+Subtask 31 (O3): ECU E2 Core 1, Start 0, Finish 12
+Subtask 32 (O4): ECU E1 Core 1, Start 4, Finish 14
+Subtask 32 (O4): ECU E3 Core 2, Start 4, Finish 14
+Subtask 33 (O5): ECU E4 Core 1, Start 12, Finish 18
+Subtask 34 (O6): ECU E4 Core 2, Start 14, Finish 17
+Subtask 35 (O1): ECU E3 Core 2, Start 56, Finish 61
+Subtask 36 (O2): ECU E4 Core 2, Start 56, Finish 66
+Subtask 37 (O3): ECU E3 Core 1, Start 66, Finish 70
+Subtask 38 (O4): ECU E1 Core 1, Start 61, Finish 67
+Subtask 39 (O5): ECU E4 Core 1, Start 66, Finish 72
+Subtask 40 (O6): ECU E3 Core 2, Start 70, Finish 75
+Subtask 41 (O1): ECU E2 Core 1, Start 65, Finish 69
+Subtask 42 (O2): ECU E1 Core 1, Start 67, Finish 73
+Subtask 43 (O3): ECU E4 Core 2, Start 73, Finish 79
+Subtask 44 (O4): ECU E2 Core 1, Start 79, Finish 89
+Subtask 45 (O1): ECU E3 Core 1, Start 70, Finish 74
+Subtask 46 (O2): ECU E1 Core 1, Start 73, Finish 77
+Subtask 47 (O3): ECU E4 Core 1, Start 77, Finish 83
+Subtask 48 (O4): ECU E3 Core 1, Start 77, Finish 80
+Subtask 49 (O5): ECU E3 Core 2, Start 77, Finish 83
+Load Imbalance: 34
+Objective Function Value: 0.1559
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.030 MB
+=== TestCase 6 ===
+Makespan: 98
+
+Schedule:
+Subtask 1 (O1): ECU E3 Core 1, Start 0, Finish 12
+Subtask 2 (O2): ECU E1 Core 1, Start 12, Finish 20
+Subtask 3 (O3): ECU E3 Core 2, Start 0, Finish 6
+Subtask 4 (O4): ECU E2 Core 1, Start 18, Finish 20
+Subtask 5 (O5): ECU E2 Core 1, Start 12, Finish 18
+Subtask 6 (O6): ECU E1 Core 1, Start 20, Finish 30
+Subtask 7 (O1): ECU E4 Core 1, Start 0, Finish 4
+Subtask 8 (O2): ECU E4 Core 2, Start 0, Finish 12
+Subtask 9 (O3): ECU E2 Core 1, Start 20, Finish 24
+Subtask 10 (O4): ECU E4 Core 1, Start 4, Finish 12
+Subtask 11 (O5): ECU E3 Core 2, Start 24, Finish 26
+Subtask 12 (O1): ECU E3 Core 1, Start 12, Finish 14
+Subtask 13 (O2): ECU E4 Core 1, Start 12, Finish 16
+Subtask 14 (O3): ECU E4 Core 2, Start 16, Finish 22
+Subtask 15 (O4): ECU E3 Core 1, Start 14, Finish 22
+Subtask 16 (O5): ECU E2 Core 1, Start 24, Finish 34
+Subtask 17 (O1): ECU E4 Core 1, Start 16, Finish 22
+Subtask 18 (O2): ECU E1 Core 1, Start 30, Finish 35
+Subtask 19 (O3): ECU E3 Core 1, Start 22, Finish 26
+Subtask 20 (O4): ECU E4 Core 1, Start 35, Finish 41
+Subtask 21 (O5): ECU E4 Core 2, Start 22, Finish 26
+Subtask 22 (O6): ECU E3 Core 1, Start 41, Finish 47
+Subtask 23 (O1): ECU E3 Core 2, Start 26, Finish 32
+Subtask 24 (O2): ECU E4 Core 2, Start 26, Finish 38
+Subtask 25 (O3): ECU E3 Core 2, Start 38, Finish 42
+Subtask 26 (O4): ECU E2 Core 1, Start 34, Finish 36
+Subtask 27 (O5): ECU E2 Core 1, Start 38, Finish 41
+Subtask 28 (O6): ECU E4 Core 2, Start 38, Finish 50
+Subtask 29 (O1): ECU E4 Core 1, Start 41, Finish 51
+Subtask 30 (O2): ECU E2 Core 1, Start 41, Finish 51
+Subtask 31 (O3): ECU E3 Core 2, Start 42, Finish 45
+Subtask 32 (O4): ECU E3 Core 2, Start 51, Finish 61
+Subtask 33 (O5): ECU E1 Core 1, Start 35, Finish 39
+Subtask 34 (O6): ECU E1 Core 1, Start 61, Finish 67
+Subtask 35 (O1): ECU E3 Core 1, Start 47, Finish 51
+Subtask 36 (O2): ECU E2 Core 1, Start 51, Finish 63
+Subtask 37 (O3): ECU E2 Core 1, Start 63, Finish 68
+Subtask 38 (O4): ECU E4 Core 2, Start 50, Finish 53
+Subtask 39 (O5): ECU E3 Core 1, Start 51, Finish 57
+Subtask 40 (O6): ECU E4 Core 1, Start 51, Finish 61
+Subtask 41 (O1): ECU E4 Core 2, Start 53, Finish 63
+Subtask 42 (O2): ECU E3 Core 1, Start 57, Finish 63
+Subtask 43 (O3): ECU E1 Core 1, Start 67, Finish 72
+Subtask 44 (O4): ECU E3 Core 2, Start 72, Finish 76
+Subtask 45 (O5): ECU E4 Core 1, Start 63, Finish 67
+Subtask 46 (O1): ECU E2 Core 1, Start 68, Finish 80
+Subtask 47 (O2): ECU E3 Core 1, Start 80, Finish 83
+Subtask 48 (O3): ECU E4 Core 2, Start 80, Finish 86
+Subtask 49 (O4): ECU E4 Core 1, Start 86, Finish 89
+Subtask 50 (O5): ECU E1 Core 1, Start 80, Finish 82
+Subtask 51 (O1): ECU E2 Core 1, Start 80, Finish 85
+Subtask 52 (O2): ECU E3 Core 2, Start 76, Finish 88
+Subtask 53 (O3): ECU E1 Core 1, Start 85, Finish 89
+Subtask 54 (O4): ECU E3 Core 1, Start 88, Finish 98
+Load Imbalance: 76
+Objective Function Value: 0.2188
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.031 MB
+=== TestCase 7 ===
+Makespan: 66
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 2, Start 0, Finish 6
+Subtask 2 (O2): ECU E1 Core 1, Start 4, Finish 7
+Subtask 3 (O3): ECU E2 Core 1, Start 6, Finish 8
+Subtask 4 (O4): ECU E3 Core 2, Start 6, Finish 12
+Subtask 5 (O5): ECU E4 Core 2, Start 6, Finish 8
+Subtask 6 (O6): ECU E2 Core 1, Start 8, Finish 10
+Subtask 7 (O1): ECU E1 Core 1, Start 7, Finish 9
+Subtask 8 (O2): ECU E4 Core 2, Start 8, Finish 10
+Subtask 9 (O3): ECU E3 Core 1, Start 10, Finish 15
+Subtask 10 (O4): ECU E1 Core 1, Start 15, Finish 23
+Subtask 11 (O5): ECU E4 Core 2, Start 15, Finish 18
+Subtask 12 (O6): ECU E3 Core 2, Start 23, Finish 27
+Subtask 13 (O1): ECU E2 Core 1, Start 10, Finish 16
+Subtask 14 (O2): ECU E2 Core 1, Start 16, Finish 20
+Subtask 15 (O3): ECU E3 Core 1, Start 16, Finish 18
+Subtask 16 (O4): ECU E3 Core 1, Start 18, Finish 30
+Subtask 17 (O5): ECU E2 Core 1, Start 20, Finish 22
+Subtask 18 (O6): ECU E4 Core 1, Start 20, Finish 24
+Subtask 19 (O1): ECU E4 Core 2, Start 18, Finish 22
+Subtask 20 (O2): ECU E4 Core 2, Start 22, Finish 28
+Subtask 21 (O3): ECU E2 Core 1, Start 22, Finish 25
+Subtask 22 (O4): ECU E4 Core 1, Start 24, Finish 28
+Subtask 23 (O5): ECU E1 Core 1, Start 23, Finish 33
+Subtask 24 (O1): ECU E1 Core 1, Start 0, Finish 4
+Subtask 25 (O2): ECU E2 Core 1, Start 25, Finish 28
+Subtask 26 (O3): ECU E3 Core 1, Start 4, Finish 10
+Subtask 27 (O4): ECU E2 Core 1, Start 0, Finish 5
+Subtask 28 (O5): ECU E3 Core 2, Start 0, Finish 6
+Subtask 29 (O6): ECU E4 Core 1, Start 10, Finish 18
+Subtask 30 (O1): ECU E3 Core 2, Start 27, Finish 30
+Subtask 31 (O2): ECU E2 Core 1, Start 28, Finish 33
+Subtask 32 (O3): ECU E4 Core 1, Start 28, Finish 36
+Subtask 33 (O4): ECU E4 Core 2, Start 33, Finish 38
+Subtask 34 (O5): ECU E3 Core 1, Start 36, Finish 44
+Subtask 35 (O1): ECU E3 Core 2, Start 30, Finish 34
+Subtask 36 (O2): ECU E1 Core 1, Start 33, Finish 43
+Subtask 37 (O3): ECU E3 Core 2, Start 34, Finish 40
+Subtask 38 (O4): ECU E4 Core 1, Start 43, Finish 55
+Subtask 39 (O5): ECU E4 Core 2, Start 38, Finish 44
+Subtask 40 (O6): ECU E3 Core 2, Start 40, Finish 45
+Subtask 41 (O1): ECU E3 Core 1, Start 44, Finish 50
+Subtask 42 (O2): ECU E2 Core 1, Start 33, Finish 35
+Subtask 43 (O3): ECU E2 Core 1, Start 35, Finish 41
+Subtask 44 (O4): ECU E1 Core 1, Start 50, Finish 53
+Subtask 45 (O1): ECU E4 Core 2, Start 44, Finish 47
+Subtask 46 (O2): ECU E2 Core 1, Start 47, Finish 51
+Subtask 47 (O3): ECU E3 Core 2, Start 47, Finish 53
+Subtask 48 (O4): ECU E4 Core 2, Start 47, Finish 53
+Subtask 49 (O5): ECU E3 Core 1, Start 53, Finish 58
+Subtask 50 (O1): ECU E2 Core 1, Start 51, Finish 54
+Subtask 51 (O2): ECU E3 Core 2, Start 53, Finish 59
+Subtask 52 (O3): ECU E4 Core 2, Start 53, Finish 59
+Subtask 53 (O4): ECU E4 Core 1, Start 55, Finish 63
+Subtask 54 (O5): ECU E1 Core 1, Start 54, Finish 66
+Load Imbalance: 46
+Objective Function Value: 0.1581
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.032 MB
+=== TestCase 8 ===
+Makespan: 95
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 2, Start 0, Finish 2
+Subtask 2 (O2): ECU E4 Core 2, Start 2, Finish 6
+Subtask 3 (O3): ECU E4 Core 1, Start 6, Finish 16
+Subtask 4 (O4): ECU E4 Core 2, Start 6, Finish 10
+Subtask 5 (O5): ECU E4 Core 2, Start 16, Finish 24
+Subtask 6 (O1): ECU E3 Core 1, Start 12, Finish 24
+Subtask 7 (O2): ECU E1 Core 1, Start 10, Finish 14
+Subtask 8 (O3): ECU E3 Core 2, Start 24, Finish 30
+Subtask 9 (O4): ECU E2 Core 1, Start 16, Finish 20
+Subtask 10 (O5): ECU E4 Core 1, Start 16, Finish 24
+Subtask 11 (O6): ECU E3 Core 1, Start 24, Finish 30
+Subtask 12 (O1): ECU E4 Core 1, Start 24, Finish 26
+Subtask 13 (O2): ECU E4 Core 2, Start 26, Finish 28
+Subtask 14 (O3): ECU E1 Core 1, Start 28, Finish 32
+Subtask 15 (O4): ECU E4 Core 1, Start 32, Finish 42
+Subtask 16 (O5): ECU E4 Core 2, Start 28, Finish 30
+Subtask 17 (O6): ECU E3 Core 1, Start 30, Finish 34
+Subtask 18 (O1): ECU E2 Core 1, Start 20, Finish 23
+Subtask 19 (O2): ECU E3 Core 2, Start 30, Finish 40
+Subtask 20 (O3): ECU E4 Core 2, Start 30, Finish 38
+Subtask 21 (O4): ECU E2 Core 1, Start 23, Finish 27
+Subtask 22 (O5): ECU E2 Core 1, Start 38, Finish 46
+Subtask 23 (O6): ECU E3 Core 1, Start 34, Finish 40
+Subtask 24 (O1): ECU E1 Core 1, Start 32, Finish 36
+Subtask 25 (O2): ECU E4 Core 2, Start 38, Finish 50
+Subtask 26 (O3): ECU E3 Core 1, Start 40, Finish 45
+Subtask 27 (O4): ECU E3 Core 2, Start 50, Finish 56
+Subtask 28 (O5): ECU E4 Core 1, Start 50, Finish 58
+Subtask 29 (O1): ECU E3 Core 1, Start 45, Finish 50
+Subtask 30 (O2): ECU E2 Core 1, Start 50, Finish 54
+Subtask 31 (O3): ECU E1 Core 1, Start 50, Finish 52
+Subtask 31 (O3): ECU E3 Core 1, Start 50, Finish 52
+Subtask 32 (O4): ECU E4 Core 2, Start 50, Finish 55
+Subtask 33 (O5): ECU E3 Core 1, Start 55, Finish 67
+Subtask 34 (O6): ECU E2 Core 1, Start 67, Finish 71
+Subtask 35 (O1): ECU E1 Core 1, Start 52, Finish 56
+Subtask 36 (O2): ECU E4 Core 2, Start 56, Finish 62
+Subtask 37 (O3): ECU E3 Core 2, Start 56, Finish 62
+Subtask 38 (O4): ECU E4 Core 1, Start 58, Finish 62
+Subtask 39 (O5): ECU E1 Core 1, Start 62, Finish 65
+Subtask 39 (O5): ECU E3 Core 2, Start 62, Finish 65
+Subtask 40 (O1): ECU E4 Core 1, Start 62, Finish 66
+Subtask 41 (O2): ECU E4 Core 2, Start 62, Finish 70
+Subtask 42 (O3): ECU E1 Core 1, Start 65, Finish 67
+Subtask 43 (O4): ECU E3 Core 2, Start 66, Finish 72
+Subtask 44 (O5): ECU E4 Core 1, Start 67, Finish 72
+Subtask 45 (O1): ECU E1 Core 1, Start 67, Finish 75
+Subtask 46 (O2): ECU E3 Core 1, Start 67, Finish 73
+Subtask 47 (O3): ECU E2 Core 1, Start 71, Finish 83
+Subtask 48 (O4): ECU E2 Core 1, Start 83, Finish 89
+Subtask 49 (O5): ECU E4 Core 2, Start 83, Finish 95
+Subtask 50 (O1): ECU E3 Core 1, Start 0, Finish 12
+Subtask 51 (O2): ECU E1 Core 1, Start 0, Finish 10
+Subtask 52 (O3): ECU E3 Core 2, Start 72, Finish 78
+Subtask 53 (O4): ECU E2 Core 1, Start 12, Finish 16
+Subtask 54 (O5): ECU E3 Core 2, Start 0, Finish 12
+Subtask 55 (O6): ECU E4 Core 1, Start 0, Finish 6
+Load Imbalance: 89
+Objective Function Value: 0.2349
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.033 MB
+=== TestCase 9 ===
+Makespan: 75
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 1, Start 0, Finish 4
+Subtask 2 (O2): ECU E4 Core 2, Start 0, Finish 4
+Subtask 3 (O3): ECU E4 Core 1, Start 4, Finish 7
+Subtask 4 (O4): ECU E4 Core 2, Start 7, Finish 10
+Subtask 5 (O1): ECU E3 Core 2, Start 6, Finish 12
+Subtask 6 (O2): ECU E4 Core 1, Start 12, Finish 18
+Subtask 7 (O3): ECU E3 Core 1, Start 8, Finish 12
+Subtask 8 (O4): ECU E1 Core 1, Start 12, Finish 22
+Subtask 9 (O1): ECU E4 Core 2, Start 10, Finish 20
+Subtask 10 (O2): ECU E3 Core 1, Start 20, Finish 22
+Subtask 11 (O3): ECU E2 Core 1, Start 18, Finish 24
+Subtask 12 (O4): ECU E1 Core 1, Start 24, Finish 29
+Subtask 13 (O5): ECU E3 Core 2, Start 24, Finish 27
+Subtask 14 (O1): ECU E4 Core 1, Start 18, Finish 22
+Subtask 15 (O2): ECU E4 Core 2, Start 20, Finish 25
+Subtask 16 (O3): ECU E3 Core 1, Start 25, Finish 31
+Subtask 17 (O4): ECU E2 Core 1, Start 24, Finish 28
+Subtask 18 (O1): ECU E2 Core 1, Start 0, Finish 6
+Subtask 19 (O2): ECU E1 Core 1, Start 0, Finish 8
+Subtask 20 (O3): ECU E4 Core 1, Start 22, Finish 24
+Subtask 21 (O4): ECU E2 Core 1, Start 8, Finish 18
+Subtask 22 (O5): ECU E3 Core 1, Start 0, Finish 8
+Subtask 23 (O6): ECU E3 Core 2, Start 0, Finish 6
+Subtask 24 (O1): ECU E2 Core 1, Start 28, Finish 38
+Subtask 25 (O2): ECU E4 Core 1, Start 24, Finish 29
+Subtask 26 (O3): ECU E4 Core 2, Start 38, Finish 42
+Subtask 27 (O4): ECU E3 Core 2, Start 27, Finish 31
+Subtask 28 (O5): ECU E1 Core 1, Start 29, Finish 41
+Subtask 28 (O5): ECU E4 Core 1, Start 29, Finish 41
+Subtask 29 (O6): ECU E3 Core 1, Start 31, Finish 34
+Subtask 30 (O1): ECU E3 Core 2, Start 31, Finish 36
+Subtask 31 (O2): ECU E3 Core 1, Start 34, Finish 36
+Subtask 32 (O3): ECU E3 Core 1, Start 36, Finish 38
+Subtask 33 (O4): ECU E3 Core 2, Start 36, Finish 39
+Subtask 34 (O1): ECU E2 Core 1, Start 38, Finish 44
+Subtask 35 (O2): ECU E3 Core 1, Start 38, Finish 48
+Subtask 36 (O3): ECU E1 Core 1, Start 41, Finish 47
+Subtask 37 (O4): ECU E3 Core 2, Start 47, Finish 57
+Subtask 38 (O1): ECU E4 Core 1, Start 41, Finish 45
+Subtask 39 (O2): ECU E4 Core 2, Start 42, Finish 54
+Subtask 40 (O3): ECU E4 Core 1, Start 45, Finish 51
+Subtask 41 (O4): ECU E2 Core 1, Start 54, Finish 62
+Subtask 42 (O1): ECU E1 Core 1, Start 47, Finish 53
+Subtask 43 (O2): ECU E3 Core 1, Start 53, Finish 65
+Subtask 44 (O3): ECU E4 Core 1, Start 51, Finish 59
+Subtask 45 (O4): ECU E4 Core 2, Start 54, Finish 58
+Subtask 46 (O5): ECU E1 Core 1, Start 58, Finish 64
+Subtask 47 (O6): ECU E3 Core 2, Start 65, Finish 75
+Load Imbalance: 46
+Objective Function Value: 0.1591
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+=== TestCase 10 ===
+Makespan: 87
+
+Schedule:
+Subtask 1 (O1): ECU E2 Core 1, Start 12, Finish 17
+Subtask 2 (O2): ECU E3 Core 2, Start 0, Finish 4
+Subtask 3 (O3): ECU E4 Core 1, Start 0, Finish 6
+Subtask 4 (O4): ECU E4 Core 2, Start 17, Finish 19
+Subtask 5 (O1): ECU E3 Core 1, Start 2, Finish 14
+Subtask 6 (O2): ECU E3 Core 2, Start 4, Finish 14
+Subtask 7 (O3): ECU E2 Core 1, Start 17, Finish 21
+Subtask 8 (O4): ECU E4 Core 1, Start 21, Finish 25
+Subtask 9 (O5): ECU E3 Core 1, Start 14, Finish 18
+Subtask 10 (O6): ECU E3 Core 2, Start 21, Finish 33
+Subtask 11 (O1): ECU E3 Core 1, Start 18, Finish 26
+Subtask 12 (O2): ECU E4 Core 2, Start 26, Finish 34
+Subtask 13 (O3): ECU E2 Core 1, Start 34, Finish 39
+Subtask 14 (O4): ECU E4 Core 1, Start 26, Finish 28
+Subtask 15 (O1): ECU E3 Core 1, Start 26, Finish 28
+Subtask 16 (O2): ECU E2 Core 1, Start 0, Finish 12
+Subtask 17 (O3): ECU E3 Core 1, Start 0, Finish 2
+Subtask 18 (O4): ECU E1 Core 1, Start 28, Finish 34
+Subtask 19 (O5): ECU E1 Core 1, Start 12, Finish 24
+Subtask 20 (O6): ECU E3 Core 1, Start 28, Finish 40
+Subtask 21 (O1): ECU E4 Core 1, Start 28, Finish 38
+Subtask 22 (O2): ECU E3 Core 2, Start 38, Finish 50
+Subtask 23 (O3): ECU E1 Core 1, Start 34, Finish 38
+Subtask 24 (O4): ECU E4 Core 2, Start 38, Finish 43
+Subtask 25 (O1): ECU E1 Core 1, Start 38, Finish 43
+Subtask 25 (O1): ECU E4 Core 1, Start 38, Finish 43
+Subtask 26 (O2): ECU E2 Core 1, Start 43, Finish 51
+Subtask 27 (O3): ECU E3 Core 1, Start 40, Finish 43
+Subtask 28 (O4): ECU E3 Core 1, Start 43, Finish 55
+Subtask 29 (O5): ECU E4 Core 1, Start 55, Finish 61
+Subtask 30 (O6): ECU E4 Core 2, Start 43, Finish 53
+Subtask 31 (O1): ECU E3 Core 2, Start 50, Finish 53
+Subtask 32 (O2): ECU E3 Core 2, Start 53, Finish 57
+Subtask 33 (O3): ECU E4 Core 2, Start 53, Finish 55
+Subtask 34 (O4): ECU E2 Core 1, Start 57, Finish 61
+Subtask 35 (O1): ECU E3 Core 1, Start 55, Finish 60
+Subtask 36 (O2): ECU E1 Core 1, Start 43, Finish 48
+Subtask 37 (O3): ECU E1 Core 1, Start 48, Finish 58
+Subtask 38 (O4): ECU E4 Core 2, Start 60, Finish 65
+Subtask 39 (O1): ECU E3 Core 2, Start 57, Finish 60
+Subtask 40 (O2): ECU E1 Core 1, Start 60, Finish 64
+Subtask 41 (O3): ECU E3 Core 1, Start 60, Finish 68
+Subtask 42 (O4): ECU E3 Core 2, Start 68, Finish 78
+Subtask 43 (O5): ECU E4 Core 1, Start 61, Finish 69
+Subtask 44 (O1): ECU E2 Core 1, Start 61, Finish 69
+Subtask 45 (O2): ECU E1 Core 1, Start 69, Finish 75
+Subtask 46 (O3): ECU E4 Core 2, Start 65, Finish 73
+Subtask 47 (O4): ECU E3 Core 1, Start 75, Finish 87
+Subtask 48 (O5): ECU E4 Core 1, Start 69, Finish 77
+Subtask 49 (O6): ECU E4 Core 2, Start 73, Finish 76
+Load Imbalance: 92
+Objective Function Value: 0.2569
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+=== TestCase 11 ===
+Makespan: 88
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 1, Start 0, Finish 10
+Subtask 2 (O2): ECU E4 Core 2, Start 0, Finish 6
+Subtask 3 (O3): ECU E4 Core 2, Start 6, Finish 16
+Subtask 4 (O4): ECU E1 Core 1, Start 22, Finish 27
+Subtask 5 (O5): ECU E3 Core 1, Start 10, Finish 16
+Subtask 6 (O6): ECU E4 Core 1, Start 27, Finish 32
+Subtask 7 (O1): ECU E3 Core 1, Start 16, Finish 20
+Subtask 8 (O2): ECU E4 Core 2, Start 16, Finish 26
+Subtask 9 (O3): ECU E3 Core 1, Start 20, Finish 28
+Subtask 10 (O4): ECU E1 Core 1, Start 27, Finish 32
+Subtask 11 (O5): ECU E3 Core 2, Start 32, Finish 34
+Subtask 12 (O1): ECU E4 Core 2, Start 26, Finish 32
+Subtask 13 (O2): ECU E3 Core 1, Start 32, Finish 42
+Subtask 14 (O3): ECU E4 Core 1, Start 32, Finish 34
+Subtask 15 (O4): ECU E1 Core 1, Start 34, Finish 37
+Subtask 16 (O5): ECU E2 Core 1, Start 34, Finish 38
+Subtask 17 (O1): ECU E4 Core 2, Start 32, Finish 42
+Subtask 18 (O2): ECU E3 Core 2, Start 34, Finish 38
+Subtask 19 (O3): ECU E4 Core 1, Start 34, Finish 42
+Subtask 20 (O4): ECU E1 Core 1, Start 42, Finish 52
+Subtask 21 (O1): ECU E2 Core 1, Start 38, Finish 42
+Subtask 22 (O2): ECU E3 Core 2, Start 38, Finish 50
+Subtask 23 (O3): ECU E2 Core 1, Start 42, Finish 44
+Subtask 24 (O4): ECU E3 Core 1, Start 50, Finish 53
+Subtask 25 (O1): ECU E4 Core 1, Start 42, Finish 46
+Subtask 26 (O2): ECU E2 Core 1, Start 44, Finish 50
+Subtask 27 (O3): ECU E4 Core 2, Start 50, Finish 52
+Subtask 28 (O4): ECU E2 Core 1, Start 50, Finish 60
+Subtask 29 (O5): ECU E4 Core 1, Start 52, Finish 58
+Subtask 30 (O6): ECU E3 Core 2, Start 50, Finish 53
+Subtask 31 (O1): ECU E1 Core 1, Start 52, Finish 56
+Subtask 32 (O2): ECU E4 Core 2, Start 52, Finish 57
+Subtask 33 (O3): ECU E1 Core 1, Start 56, Finish 66
+Subtask 34 (O4): ECU E3 Core 1, Start 66, Finish 69
+Subtask 35 (O5): ECU E3 Core 2, Start 66, Finish 69
+Subtask 36 (O1): ECU E4 Core 2, Start 57, Finish 67
+Subtask 37 (O2): ECU E4 Core 1, Start 58, Finish 66
+Subtask 38 (O3): ECU E2 Core 1, Start 60, Finish 66
+Subtask 39 (O4): ECU E1 Core 1, Start 67, Finish 71
+Subtask 40 (O1): ECU E2 Core 1, Start 66, Finish 69
+Subtask 41 (O2): ECU E3 Core 1, Start 0, Finish 10
+Subtask 42 (O3): ECU E1 Core 1, Start 10, Finish 22
+Subtask 43 (O4): ECU E3 Core 2, Start 10, Finish 22
+Subtask 44 (O5): ECU E2 Core 1, Start 22, Finish 32
+Subtask 45 (O1): ECU E4 Core 1, Start 66, Finish 76
+Subtask 46 (O2): ECU E4 Core 2, Start 76, Finish 84
+Subtask 47 (O3): ECU E3 Core 1, Start 84, Finish 88
+Subtask 48 (O4): ECU E2 Core 1, Start 76, Finish 88
+Subtask 49 (O5): ECU E3 Core 2, Start 69, Finish 73
+Subtask 50 (O6): ECU E3 Core 2, Start 76, Finish 80
+Load Imbalance: 67
+Objective Function Value: 0.1931
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+=== TestCase 12 ===
+Makespan: 81
+
+Schedule:
+Subtask 1 (O1): ECU E1 Core 1, Start 0, Finish 5
+Subtask 2 (O2): ECU E2 Core 1, Start 0, Finish 6
+Subtask 3 (O3): ECU E1 Core 1, Start 24, Finish 30
+Subtask 4 (O4): ECU E3 Core 1, Start 0, Finish 6
+Subtask 5 (O5): ECU E3 Core 2, Start 6, Finish 12
+Subtask 6 (O6): ECU E4 Core 1, Start 12, Finish 24
+Subtask 7 (O1): ECU E4 Core 2, Start 0, Finish 3
+Subtask 8 (O2): ECU E4 Core 2, Start 3, Finish 15
+Subtask 9 (O3): ECU E3 Core 1, Start 6, Finish 11
+Subtask 10 (O4): ECU E2 Core 1, Start 6, Finish 12
+Subtask 11 (O5): ECU E3 Core 1, Start 11, Finish 23
+Subtask 12 (O6): ECU E2 Core 1, Start 12, Finish 17
+Subtask 13 (O1): ECU E3 Core 2, Start 12, Finish 18
+Subtask 14 (O2): ECU E4 Core 2, Start 15, Finish 25
+Subtask 15 (O3): ECU E2 Core 1, Start 17, Finish 23
+Subtask 16 (O4): ECU E3 Core 2, Start 18, Finish 23
+Subtask 17 (O5): ECU E2 Core 1, Start 23, Finish 29
+Subtask 18 (O6): ECU E3 Core 1, Start 25, Finish 29
+Subtask 19 (O1): ECU E3 Core 2, Start 23, Finish 29
+Subtask 20 (O2): ECU E4 Core 1, Start 24, Finish 28
+Subtask 21 (O3): ECU E4 Core 2, Start 25, Finish 30
+Subtask 22 (O4): ECU E4 Core 1, Start 28, Finish 32
+Subtask 23 (O5): ECU E2 Core 1, Start 32, Finish 34
+Subtask 24 (O6): ECU E3 Core 1, Start 29, Finish 31
+Subtask 25 (O1): ECU E3 Core 2, Start 29, Finish 35
+Subtask 26 (O2): ECU E4 Core 2, Start 35, Finish 41
+Subtask 27 (O3): ECU E3 Core 1, Start 31, Finish 41
+Subtask 28 (O4): ECU E1 Core 1, Start 32, Finish 34
+Subtask 28 (O4): ECU E4 Core 1, Start 32, Finish 34
+Subtask 29 (O5): ECU E1 Core 1, Start 41, Finish 47
+Subtask 30 (O1): ECU E2 Core 1, Start 34, Finish 39
+Subtask 31 (O2): ECU E4 Core 1, Start 39, Finish 43
+Subtask 32 (O3): ECU E3 Core 2, Start 43, Finish 47
+Subtask 33 (O4): ECU E3 Core 1, Start 41, Finish 43
+Subtask 34 (O1): ECU E4 Core 2, Start 41, Finish 44
+Subtask 35 (O2): ECU E2 Core 1, Start 39, Finish 45
+Subtask 36 (O3): ECU E3 Core 1, Start 45, Finish 51
+Subtask 37 (O4): ECU E4 Core 1, Start 43, Finish 47
+Subtask 38 (O5): ECU E4 Core 2, Start 44, Finish 48
+Subtask 39 (O6): ECU E3 Core 2, Start 47, Finish 53
+Subtask 40 (O1): ECU E2 Core 1, Start 45, Finish 47
+Subtask 41 (O2): ECU E4 Core 1, Start 47, Finish 52
+Subtask 42 (O3): ECU E1 Core 1, Start 52, Finish 56
+Subtask 43 (O4): ECU E4 Core 2, Start 48, Finish 53
+Subtask 44 (O5): ECU E2 Core 1, Start 47, Finish 59
+Subtask 45 (O6): ECU E3 Core 1, Start 53, Finish 57
+Subtask 46 (O1): ECU E4 Core 1, Start 52, Finish 64
+Subtask 47 (O2): ECU E3 Core 2, Start 53, Finish 58
+Subtask 48 (O3): ECU E4 Core 2, Start 64, Finish 68
+Subtask 49 (O4): ECU E1 Core 1, Start 58, Finish 60
+Subtask 50 (O5): ECU E3 Core 1, Start 57, Finish 63
+Subtask 51 (O6): ECU E2 Core 1, Start 63, Finish 73
+Subtask 52 (O1): ECU E3 Core 2, Start 58, Finish 66
+Subtask 53 (O2): ECU E1 Core 1, Start 60, Finish 64
+Subtask 54 (O3): ECU E3 Core 1, Start 63, Finish 69
+Subtask 55 (O4): ECU E4 Core 1, Start 64, Finish 76
+Subtask 56 (O5): ECU E3 Core 2, Start 69, Finish 81
+Load Imbalance: 98
+Objective Function Value: 0.2495
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.015 MB
+=== TestCase 13 ===
+Makespan: 88
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 2, Start 0, Finish 4
+Subtask 2 (O2): ECU E4 Core 2, Start 4, Finish 7
+Subtask 3 (O3): ECU E1 Core 1, Start 3, Finish 15
+Subtask 4 (O4): ECU E3 Core 1, Start 5, Finish 10
+Subtask 5 (O5): ECU E4 Core 2, Start 7, Finish 17
+Subtask 6 (O6): ECU E1 Core 1, Start 15, Finish 21
+Subtask 7 (O1): ECU E3 Core 1, Start 10, Finish 12
+Subtask 8 (O2): ECU E3 Core 2, Start 10, Finish 20
+Subtask 9 (O3): ECU E3 Core 1, Start 20, Finish 26
+Subtask 10 (O4): ECU E4 Core 2, Start 20, Finish 22
+Subtask 11 (O5): ECU E3 Core 2, Start 20, Finish 26
+Subtask 12 (O1): ECU E1 Core 1, Start 21, Finish 31
+Subtask 13 (O2): ECU E4 Core 1, Start 20, Finish 32
+Subtask 14 (O3): ECU E4 Core 2, Start 31, Finish 37
+Subtask 15 (O4): ECU E2 Core 1, Start 26, Finish 30
+Subtask 16 (O5): ECU E2 Core 1, Start 30, Finish 34
+Subtask 17 (O6): ECU E3 Core 1, Start 32, Finish 44
+Subtask 18 (O1): ECU E1 Core 1, Start 31, Finish 43
+Subtask 18 (O1): ECU E3 Core 2, Start 31, Finish 43
+Subtask 19 (O2): ECU E2 Core 1, Start 34, Finish 42
+Subtask 20 (O3): ECU E4 Core 1, Start 32, Finish 36
+Subtask 21 (O4): ECU E4 Core 1, Start 43, Finish 45
+Subtask 22 (O5): ECU E4 Core 2, Start 37, Finish 41
+Subtask 23 (O1): ECU E4 Core 2, Start 41, Finish 53
+Subtask 24 (O2): ECU E3 Core 1, Start 0, Finish 5
+Subtask 25 (O3): ECU E3 Core 2, Start 5, Finish 10
+Subtask 26 (O4): ECU E4 Core 1, Start 10, Finish 20
+Subtask 27 (O5): ECU E1 Core 1, Start 0, Finish 3
+Subtask 28 (O6): ECU E2 Core 1, Start 20, Finish 26
+Subtask 29 (O1): ECU E3 Core 2, Start 43, Finish 49
+Subtask 30 (O2): ECU E2 Core 1, Start 42, Finish 48
+Subtask 31 (O3): ECU E1 Core 1, Start 49, Finish 61
+Subtask 32 (O4): ECU E2 Core 1, Start 48, Finish 58
+Subtask 33 (O5): ECU E3 Core 1, Start 44, Finish 47
+Subtask 34 (O1): ECU E4 Core 1, Start 45, Finish 51
+Subtask 35 (O2): ECU E3 Core 1, Start 47, Finish 51
+Subtask 36 (O3): ECU E3 Core 2, Start 51, Finish 59
+Subtask 37 (O4): ECU E3 Core 1, Start 51, Finish 56
+Subtask 38 (O5): ECU E4 Core 1, Start 56, Finish 60
+Subtask 39 (O1): ECU E4 Core 2, Start 53, Finish 59
+Subtask 40 (O2): ECU E3 Core 1, Start 56, Finish 58
+Subtask 41 (O3): ECU E2 Core 1, Start 58, Finish 64
+Subtask 42 (O4): ECU E3 Core 1, Start 64, Finish 68
+Subtask 43 (O5): ECU E3 Core 2, Start 59, Finish 69
+Subtask 44 (O6): ECU E4 Core 2, Start 64, Finish 68
+Subtask 45 (O1): ECU E4 Core 1, Start 60, Finish 64
+Subtask 46 (O2): ECU E2 Core 1, Start 64, Finish 68
+Subtask 47 (O3): ECU E1 Core 1, Start 61, Finish 73
+Subtask 48 (O4): ECU E4 Core 1, Start 73, Finish 81
+Subtask 49 (O5): ECU E3 Core 1, Start 81, Finish 87
+Subtask 50 (O1): ECU E2 Core 1, Start 68, Finish 78
+Subtask 51 (O2): ECU E4 Core 2, Start 78, Finish 84
+Subtask 52 (O3): ECU E3 Core 2, Start 69, Finish 75
+Subtask 53 (O4): ECU E3 Core 2, Start 84, Finish 88
+Subtask 54 (O5): ECU E1 Core 1, Start 73, Finish 83
+Subtask 55 (O6): ECU E4 Core 1, Start 81, Finish 84
+Load Imbalance: 63
+Objective Function Value: 0.1775
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.015 MB
+=== TestCase 14 ===
+Makespan: 76
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 1, Start 0, Finish 10
+Subtask 2 (O2): ECU E4 Core 2, Start 10, Finish 20
+Subtask 3 (O3): ECU E2 Core 1, Start 4, Finish 7
+Subtask 4 (O4): ECU E3 Core 1, Start 8, Finish 18
+Subtask 5 (O5): ECU E4 Core 1, Start 10, Finish 12
+Subtask 6 (O6): ECU E2 Core 1, Start 12, Finish 16
+Subtask 7 (O1): ECU E4 Core 1, Start 12, Finish 16
+Subtask 8 (O2): ECU E2 Core 1, Start 16, Finish 20
+Subtask 9 (O3): ECU E3 Core 2, Start 14, Finish 26
+Subtask 10 (O4): ECU E4 Core 1, Start 20, Finish 26
+Subtask 11 (O1): ECU E3 Core 1, Start 18, Finish 20
+Subtask 12 (O2): ECU E3 Core 1, Start 20, Finish 22
+Subtask 13 (O3): ECU E2 Core 1, Start 20, Finish 26
+Subtask 14 (O4): ECU E4 Core 2, Start 20, Finish 26
+Subtask 15 (O5): ECU E3 Core 1, Start 26, Finish 32
+Subtask 16 (O1): ECU E2 Core 1, Start 0, Finish 4
+Subtask 17 (O2): ECU E3 Core 2, Start 26, Finish 28
+Subtask 18 (O3): ECU E3 Core 1, Start 0, Finish 8
+Subtask 19 (O4): ECU E3 Core 2, Start 8, Finish 14
+Subtask 20 (O5): ECU E1 Core 1, Start 14, Finish 26
+Subtask 21 (O1): ECU E4 Core 1, Start 26, Finish 31
+Subtask 22 (O2): ECU E1 Core 1, Start 31, Finish 34
+Subtask 23 (O3): ECU E4 Core 2, Start 34, Finish 38
+Subtask 24 (O4): ECU E2 Core 1, Start 26, Finish 28
+Subtask 25 (O5): ECU E3 Core 2, Start 31, Finish 35
+Subtask 26 (O6): ECU E2 Core 1, Start 38, Finish 42
+Subtask 27 (O1): ECU E4 Core 1, Start 31, Finish 43
+Subtask 28 (O2): ECU E3 Core 1, Start 32, Finish 37
+Subtask 29 (O3): ECU E1 Core 1, Start 34, Finish 36
+Subtask 30 (O4): ECU E3 Core 2, Start 35, Finish 41
+Subtask 31 (O5): ECU E3 Core 1, Start 37, Finish 45
+Subtask 32 (O1): ECU E4 Core 2, Start 38, Finish 41
+Subtask 33 (O2): ECU E1 Core 1, Start 41, Finish 51
+Subtask 34 (O3): ECU E3 Core 2, Start 41, Finish 53
+Subtask 35 (O4): ECU E4 Core 2, Start 41, Finish 47
+Subtask 36 (O5): ECU E2 Core 1, Start 47, Finish 52
+Subtask 37 (O1): ECU E4 Core 1, Start 43, Finish 48
+Subtask 38 (O2): ECU E3 Core 1, Start 45, Finish 53
+Subtask 39 (O3): ECU E4 Core 2, Start 47, Finish 51
+Subtask 40 (O4): ECU E4 Core 1, Start 48, Finish 53
+Subtask 41 (O5): ECU E1 Core 1, Start 51, Finish 54
+Subtask 41 (O5): ECU E4 Core 2, Start 51, Finish 54
+Subtask 42 (O6): ECU E3 Core 1, Start 53, Finish 59
+Subtask 43 (O1): ECU E2 Core 1, Start 52, Finish 60
+Subtask 44 (O2): ECU E3 Core 2, Start 53, Finish 65
+Subtask 45 (O3): ECU E4 Core 1, Start 65, Finish 67
+Subtask 46 (O4): ECU E4 Core 2, Start 65, Finish 70
+Subtask 47 (O1): ECU E3 Core 1, Start 59, Finish 71
+Subtask 48 (O2): ECU E2 Core 1, Start 71, Finish 76
+Subtask 49 (O3): ECU E1 Core 1, Start 65, Finish 69
+Subtask 49 (O3): ECU E3 Core 2, Start 65, Finish 69
+Subtask 50 (O4): ECU E4 Core 1, Start 67, Finish 71
+Subtask 51 (O5): ECU E3 Core 2, Start 69, Finish 75
+Load Imbalance: 97
+Objective Function Value: 0.2775
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+=== TestCase 15 ===
+Makespan: 75
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 1, Start 0, Finish 3
+Subtask 2 (O2): ECU E4 Core 2, Start 3, Finish 7
+Subtask 3 (O3): ECU E4 Core 1, Start 3, Finish 7
+Subtask 4 (O4): ECU E4 Core 1, Start 7, Finish 13
+Subtask 5 (O5): ECU E1 Core 1, Start 7, Finish 10
+Subtask 6 (O1): ECU E4 Core 2, Start 7, Finish 12
+Subtask 7 (O2): ECU E3 Core 1, Start 12, Finish 16
+Subtask 8 (O3): ECU E1 Core 1, Start 10, Finish 12
+Subtask 9 (O4): ECU E4 Core 2, Start 12, Finish 14
+Subtask 10 (O1): ECU E2 Core 1, Start 10, Finish 22
+Subtask 11 (O2): ECU E4 Core 1, Start 13, Finish 17
+Subtask 12 (O3): ECU E4 Core 2, Start 22, Finish 27
+Subtask 13 (O4): ECU E3 Core 1, Start 16, Finish 21
+Subtask 14 (O1): ECU E1 Core 1, Start 0, Finish 2
+Subtask 15 (O2): ECU E2 Core 1, Start 0, Finish 10
+Subtask 16 (O3): ECU E3 Core 1, Start 0, Finish 12
+Subtask 17 (O4): ECU E3 Core 2, Start 10, Finish 20
+Subtask 18 (O1): ECU E4 Core 1, Start 17, Finish 27
+Subtask 19 (O2): ECU E1 Core 1, Start 12, Finish 24
+Subtask 20 (O3): ECU E3 Core 2, Start 24, Finish 29
+Subtask 21 (O4): ECU E3 Core 1, Start 29, Finish 33
+Subtask 22 (O1): ECU E4 Core 1, Start 27, Finish 29
+Subtask 23 (O2): ECU E2 Core 1, Start 29, Finish 35
+Subtask 24 (O3): ECU E4 Core 2, Start 27, Finish 31
+Subtask 25 (O4): ECU E3 Core 2, Start 31, Finish 39
+Subtask 26 (O5): ECU E1 Core 1, Start 24, Finish 30
+Subtask 27 (O6): ECU E4 Core 1, Start 35, Finish 43
+Subtask 28 (O1): ECU E1 Core 1, Start 30, Finish 40
+Subtask 29 (O2): ECU E2 Core 1, Start 35, Finish 39
+Subtask 30 (O3): ECU E4 Core 2, Start 31, Finish 35
+Subtask 31 (O4): ECU E3 Core 1, Start 35, Finish 47
+Subtask 32 (O1): ECU E2 Core 1, Start 39, Finish 43
+Subtask 33 (O2): ECU E4 Core 2, Start 43, Finish 49
+Subtask 34 (O3): ECU E3 Core 2, Start 39, Finish 49
+Subtask 35 (O4): ECU E1 Core 1, Start 49, Finish 53
+Subtask 36 (O5): ECU E2 Core 1, Start 53, Finish 57
+Subtask 37 (O6): ECU E4 Core 1, Start 53, Finish 59
+Subtask 38 (O1): ECU E3 Core 1, Start 47, Finish 51
+Subtask 39 (O2): ECU E3 Core 2, Start 49, Finish 53
+Subtask 40 (O3): ECU E4 Core 2, Start 53, Finish 59
+Subtask 41 (O4): ECU E3 Core 1, Start 51, Finish 53
+Subtask 42 (O5): ECU E1 Core 1, Start 53, Finish 57
+Subtask 43 (O1): ECU E3 Core 1, Start 53, Finish 63
+Subtask 44 (O2): ECU E1 Core 1, Start 57, Finish 67
+Subtask 45 (O3): ECU E3 Core 2, Start 67, Finish 71
+Subtask 46 (O4): ECU E4 Core 1, Start 71, Finish 75
+Load Imbalance: 54
+Objective Function Value: 0.1921
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.012 MB
+=== TestCase 16 ===
+Makespan: 88
+
+Schedule:
+Subtask 1 (O1): ECU E1 Core 1, Start 6, Finish 16
+Subtask 1 (O1): ECU E4 Core 1, Start 6, Finish 16
+Subtask 2 (O2): ECU E4 Core 2, Start 0, Finish 6
+Subtask 3 (O3): ECU E3 Core 1, Start 16, Finish 22
+Subtask 4 (O4): ECU E4 Core 2, Start 6, Finish 16
+Subtask 5 (O5): ECU E4 Core 1, Start 16, Finish 18
+Subtask 6 (O6): ECU E2 Core 1, Start 18, Finish 30
+Subtask 7 (O1): ECU E4 Core 2, Start 16, Finish 20
+Subtask 8 (O2): ECU E1 Core 1, Start 16, Finish 21
+Subtask 9 (O3): ECU E4 Core 1, Start 20, Finish 24
+Subtask 10 (O4): ECU E3 Core 2, Start 21, Finish 23
+Subtask 11 (O5): ECU E4 Core 2, Start 20, Finish 23
+Subtask 12 (O1): ECU E3 Core 1, Start 22, Finish 26
+Subtask 13 (O2): ECU E3 Core 2, Start 23, Finish 26
+Subtask 14 (O3): ECU E1 Core 1, Start 21, Finish 33
+Subtask 15 (O4): ECU E4 Core 2, Start 33, Finish 43
+Subtask 16 (O5): ECU E4 Core 1, Start 33, Finish 38
+Subtask 17 (O1): ECU E2 Core 1, Start 30, Finish 42
+Subtask 18 (O2): ECU E3 Core 1, Start 26, Finish 38
+Subtask 19 (O3): ECU E1 Core 1, Start 42, Finish 48
+Subtask 20 (O4): ECU E2 Core 1, Start 42, Finish 50
+Subtask 21 (O1): ECU E3 Core 2, Start 26, Finish 38
+Subtask 22 (O2): ECU E3 Core 1, Start 38, Finish 42
+Subtask 23 (O3): ECU E3 Core 2, Start 38, Finish 44
+Subtask 24 (O4): ECU E4 Core 1, Start 38, Finish 44
+Subtask 25 (O5): ECU E3 Core 1, Start 42, Finish 48
+Subtask 26 (O1): ECU E4 Core 2, Start 43, Finish 49
+Subtask 27 (O2): ECU E3 Core 2, Start 44, Finish 50
+Subtask 28 (O3): ECU E4 Core 1, Start 50, Finish 62
+Subtask 29 (O4): ECU E1 Core 1, Start 48, Finish 53
+Subtask 30 (O5): ECU E3 Core 1, Start 53, Finish 61
+Subtask 31 (O1): ECU E4 Core 2, Start 49, Finish 53
+Subtask 32 (O2): ECU E3 Core 2, Start 50, Finish 55
+Subtask 33 (O3): ECU E4 Core 2, Start 55, Finish 63
+Subtask 34 (O4): ECU E1 Core 1, Start 55, Finish 60
+Subtask 35 (O5): ECU E2 Core 1, Start 63, Finish 68
+Subtask 36 (O1): ECU E3 Core 2, Start 55, Finish 59
+Subtask 37 (O2): ECU E1 Core 1, Start 0, Finish 6
+Subtask 38 (O3): ECU E2 Core 1, Start 0, Finish 12
+Subtask 39 (O4): ECU E3 Core 1, Start 0, Finish 6
+Subtask 40 (O5): ECU E3 Core 2, Start 12, Finish 20
+Subtask 41 (O6): ECU E3 Core 2, Start 59, Finish 63
+Subtask 42 (O1): ECU E1 Core 1, Start 60, Finish 66
+Subtask 43 (O2): ECU E3 Core 1, Start 66, Finish 71
+Subtask 44 (O3): ECU E4 Core 1, Start 71, Finish 77
+Subtask 45 (O4): ECU E3 Core 2, Start 66, Finish 78
+Subtask 46 (O5): ECU E4 Core 2, Start 66, Finish 71
+Subtask 47 (O6): ECU E3 Core 1, Start 71, Finish 73
+Subtask 48 (O1): ECU E2 Core 1, Start 68, Finish 76
+Subtask 49 (O2): ECU E4 Core 2, Start 71, Finish 83
+Subtask 50 (O3): ECU E1 Core 1, Start 83, Finish 88
+Subtask 51 (O4): ECU E2 Core 1, Start 76, Finish 86
+Subtask 52 (O5): ECU E3 Core 1, Start 73, Finish 76
+Load Imbalance: 58
+Objective Function Value: 0.1698
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+=== TestCase 17 ===
+Makespan: 77
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 1, Start 0, Finish 5
+Subtask 2 (O2): ECU E4 Core 2, Start 0, Finish 6
+Subtask 3 (O3): ECU E1 Core 1, Start 6, Finish 8
+Subtask 4 (O4): ECU E1 Core 1, Start 8, Finish 12
+Subtask 4 (O4): ECU E3 Core 1, Start 8, Finish 12
+Subtask 5 (O5): ECU E4 Core 1, Start 8, Finish 14
+Subtask 6 (O6): ECU E4 Core 2, Start 8, Finish 14
+Subtask 7 (O1): ECU E1 Core 1, Start 0, Finish 6
+Subtask 8 (O2): ECU E3 Core 1, Start 0, Finish 3
+Subtask 9 (O3): ECU E2 Core 1, Start 6, Finish 10
+Subtask 10 (O4): ECU E3 Core 2, Start 0, Finish 10
+Subtask 11 (O1): ECU E2 Core 1, Start 10, Finish 18
+Subtask 12 (O2): ECU E3 Core 2, Start 10, Finish 13
+Subtask 13 (O3): ECU E1 Core 1, Start 18, Finish 22
+Subtask 14 (O4): ECU E3 Core 1, Start 22, Finish 26
+Subtask 15 (O1): ECU E3 Core 2, Start 13, Finish 16
+Subtask 16 (O2): ECU E4 Core 1, Start 14, Finish 20
+Subtask 17 (O3): ECU E4 Core 2, Start 14, Finish 16
+Subtask 18 (O4): ECU E3 Core 2, Start 16, Finish 21
+Subtask 19 (O5): ECU E4 Core 2, Start 16, Finish 19
+Subtask 20 (O1): ECU E4 Core 2, Start 19, Finish 25
+Subtask 21 (O2): ECU E2 Core 1, Start 18, Finish 24
+Subtask 22 (O3): ECU E4 Core 1, Start 20, Finish 26
+Subtask 23 (O4): ECU E3 Core 2, Start 21, Finish 24
+Subtask 24 (O5): ECU E2 Core 1, Start 26, Finish 31
+Subtask 25 (O1): ECU E3 Core 2, Start 24, Finish 29
+Subtask 26 (O2): ECU E1 Core 1, Start 22, Finish 24
+Subtask 27 (O3): ECU E1 Core 1, Start 24, Finish 32
+Subtask 28 (O4): ECU E4 Core 2, Start 25, Finish 35
+Subtask 29 (O5): ECU E3 Core 1, Start 35, Finish 38
+Subtask 30 (O6): ECU E4 Core 1, Start 26, Finish 32
+Subtask 31 (O1): ECU E3 Core 2, Start 29, Finish 33
+Subtask 32 (O2): ECU E2 Core 1, Start 31, Finish 37
+Subtask 33 (O3): ECU E4 Core 1, Start 32, Finish 37
+Subtask 34 (O4): ECU E3 Core 2, Start 37, Finish 43
+Subtask 35 (O5): ECU E1 Core 1, Start 32, Finish 36
+Subtask 36 (O6): ECU E4 Core 2, Start 36, Finish 38
+Subtask 37 (O1): ECU E4 Core 1, Start 37, Finish 40
+Subtask 38 (O2): ECU E1 Core 1, Start 40, Finish 42
+Subtask 39 (O3): ECU E3 Core 1, Start 38, Finish 44
+Subtask 40 (O4): ECU E4 Core 2, Start 38, Finish 46
+Subtask 41 (O5): ECU E2 Core 1, Start 46, Finish 56
+Subtask 42 (O6): ECU E4 Core 1, Start 40, Finish 46
+Subtask 43 (O1): ECU E3 Core 2, Start 43, Finish 51
+Subtask 44 (O2): ECU E1 Core 1, Start 51, Finish 57
+Subtask 45 (O3): ECU E3 Core 1, Start 57, Finish 69
+Subtask 46 (O4): ECU E2 Core 1, Start 56, Finish 61
+Subtask 47 (O5): ECU E4 Core 1, Start 51, Finish 57
+Subtask 48 (O6): ECU E4 Core 2, Start 61, Finish 65
+Subtask 49 (O1): ECU E3 Core 2, Start 51, Finish 55
+Subtask 50 (O2): ECU E3 Core 2, Start 55, Finish 67
+Subtask 51 (O3): ECU E4 Core 1, Start 57, Finish 59
+Subtask 52 (O4): ECU E1 Core 1, Start 57, Finish 69
+Subtask 53 (O5): ECU E4 Core 1, Start 69, Finish 77
+Subtask 54 (O6): ECU E4 Core 2, Start 69, Finish 74
+Load Imbalance: 67
+Objective Function Value: 0.2151
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.015 MB
+=== TestCase 18 ===
+Makespan: 74
+
+Schedule:
+Subtask 1 (O1): ECU E2 Core 1, Start 8, Finish 14
+Subtask 2 (O2): ECU E4 Core 1, Start 14, Finish 18
+Subtask 3 (O3): ECU E4 Core 2, Start 14, Finish 16
+Subtask 4 (O4): ECU E3 Core 1, Start 18, Finish 24
+Subtask 5 (O5): ECU E1 Core 1, Start 16, Finish 22
+Subtask 6 (O1): ECU E3 Core 2, Start 16, Finish 28
+Subtask 7 (O2): ECU E2 Core 1, Start 14, Finish 20
+Subtask 8 (O3): ECU E4 Core 2, Start 16, Finish 19
+Subtask 9 (O4): ECU E4 Core 1, Start 19, Finish 27
+Subtask 10 (O1): ECU E2 Core 1, Start 20, Finish 25
+Subtask 11 (O2): ECU E1 Core 1, Start 22, Finish 25
+Subtask 11 (O2): ECU E4 Core 2, Start 22, Finish 25
+Subtask 12 (O3): ECU E3 Core 1, Start 24, Finish 27
+Subtask 13 (O4): ECU E2 Core 1, Start 25, Finish 29
+Subtask 14 (O5): ECU E4 Core 2, Start 25, Finish 29
+Subtask 15 (O6): ECU E1 Core 1, Start 29, Finish 33
+Subtask 16 (O1): ECU E3 Core 1, Start 27, Finish 29
+Subtask 17 (O2): ECU E4 Core 1, Start 27, Finish 32
+Subtask 18 (O3): ECU E3 Core 2, Start 29, Finish 41
+Subtask 19 (O4): ECU E3 Core 1, Start 29, Finish 33
+Subtask 20 (O1): ECU E4 Core 2, Start 29, Finish 34
+Subtask 21 (O2): ECU E2 Core 1, Start 29, Finish 39
+Subtask 22 (O3): ECU E4 Core 1, Start 39, Finish 42
+Subtask 23 (O4): ECU E1 Core 1, Start 33, Finish 36
+Subtask 24 (O5): ECU E3 Core 1, Start 33, Finish 39
+Subtask 25 (O6): ECU E4 Core 2, Start 39, Finish 51
+Subtask 26 (O1): ECU E1 Core 1, Start 36, Finish 41
+Subtask 27 (O2): ECU E2 Core 1, Start 39, Finish 43
+Subtask 28 (O3): ECU E3 Core 1, Start 39, Finish 49
+Subtask 29 (O4): ECU E1 Core 1, Start 41, Finish 45
+Subtask 30 (O5): ECU E3 Core 2, Start 41, Finish 45
+Subtask 31 (O6): ECU E4 Core 1, Start 49, Finish 54
+Subtask 32 (O1): ECU E2 Core 1, Start 43, Finish 46
+Subtask 33 (O2): ECU E3 Core 2, Start 46, Finish 56
+Subtask 34 (O3): ECU E1 Core 1, Start 46, Finish 54
+Subtask 35 (O4): ECU E2 Core 1, Start 56, Finish 64
+Subtask 36 (O1): ECU E3 Core 1, Start 49, Finish 53
+Subtask 37 (O2): ECU E4 Core 2, Start 53, Finish 63
+Subtask 38 (O3): ECU E1 Core 1, Start 54, Finish 60
+Subtask 39 (O4): ECU E3 Core 1, Start 60, Finish 64
+Subtask 40 (O5): ECU E4 Core 1, Start 60, Finish 66
+Subtask 41 (O1): ECU E3 Core 2, Start 56, Finish 59
+Subtask 42 (O2): ECU E3 Core 2, Start 59, Finish 67
+Subtask 43 (O3): ECU E4 Core 2, Start 67, Finish 69
+Subtask 44 (O4): ECU E2 Core 1, Start 69, Finish 74
+Subtask 45 (O5): ECU E1 Core 1, Start 60, Finish 66
+Subtask 46 (O6): ECU E3 Core 1, Start 64, Finish 69
+Subtask 47 (O1): ECU E1 Core 1, Start 0, Finish 12
+Subtask 48 (O2): ECU E3 Core 1, Start 0, Finish 6
+Subtask 49 (O3): ECU E2 Core 1, Start 6, Finish 8
+Subtask 50 (O4): ECU E3 Core 2, Start 12, Finish 16
+Load Imbalance: 50
+Objective Function Value: 0.1775
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+=== TestCase 19 ===
+Makespan: 65
+
+Schedule:
+Subtask 1 (O1): ECU E4 Core 2, Start 2, Finish 10
+Subtask 2 (O2): ECU E1 Core 1, Start 3, Finish 9
+Subtask 3 (O3): ECU E3 Core 1, Start 8, Finish 20
+Subtask 4 (O4): ECU E1 Core 1, Start 10, Finish 14
+Subtask 5 (O5): ECU E4 Core 2, Start 20, Finish 26
+Subtask 6 (O6): ECU E2 Core 1, Start 6, Finish 8
+Subtask 7 (O1): ECU E2 Core 1, Start 8, Finish 14
+Subtask 8 (O2): ECU E4 Core 1, Start 11, Finish 15
+Subtask 9 (O3): ECU E1 Core 1, Start 14, Finish 16
+Subtask 10 (O4): ECU E4 Core 1, Start 15, Finish 17
+Subtask 11 (O5): ECU E2 Core 1, Start 17, Finish 29
+Subtask 12 (O6): ECU E3 Core 2, Start 16, Finish 20
+Subtask 13 (O1): ECU E1 Core 1, Start 16, Finish 21
+Subtask 14 (O2): ECU E4 Core 1, Start 17, Finish 23
+Subtask 15 (O3): ECU E3 Core 1, Start 20, Finish 24
+Subtask 16 (O4): ECU E1 Core 1, Start 21, Finish 25
+Subtask 17 (O5): ECU E3 Core 2, Start 21, Finish 27
+Subtask 18 (O1): ECU E4 Core 1, Start 23, Finish 25
+Subtask 19 (O2): ECU E1 Core 1, Start 25, Finish 29
+Subtask 20 (O3): ECU E3 Core 1, Start 24, Finish 32
+Subtask 21 (O4): ECU E4 Core 1, Start 29, Finish 31
+Subtask 22 (O5): ECU E2 Core 1, Start 29, Finish 33
+Subtask 23 (O1): ECU E4 Core 2, Start 26, Finish 30
+Subtask 24 (O2): ECU E3 Core 2, Start 27, Finish 31
+Subtask 25 (O3): ECU E4 Core 2, Start 30, Finish 33
+Subtask 26 (O4): ECU E3 Core 2, Start 31, Finish 37
+Subtask 27 (O5): ECU E4 Core 1, Start 37, Finish 41
+Subtask 28 (O6): ECU E3 Core 1, Start 37, Finish 43
+Subtask 29 (O1): ECU E1 Core 1, Start 0, Finish 3
+Subtask 30 (O2): ECU E2 Core 1, Start 0, Finish 6
+Subtask 31 (O3): ECU E3 Core 1, Start 3, Finish 8
+Subtask 32 (O4): ECU E3 Core 2, Start 8, Finish 16
+Subtask 33 (O5): ECU E4 Core 1, Start 8, Finish 11
+Subtask 34 (O6): ECU E4 Core 2, Start 0, Finish 2
+Subtask 35 (O1): ECU E4 Core 2, Start 33, Finish 37
+Subtask 36 (O2): ECU E1 Core 1, Start 37, Finish 47
+Subtask 37 (O3): ECU E3 Core 2, Start 37, Finish 43
+Subtask 38 (O4): ECU E2 Core 1, Start 37, Finish 43
+Subtask 39 (O1): ECU E2 Core 1, Start 43, Finish 47
+Subtask 40 (O2): ECU E4 Core 2, Start 47, Finish 53
+Subtask 41 (O3): ECU E4 Core 1, Start 47, Finish 51
+Subtask 42 (O4): ECU E3 Core 1, Start 53, Finish 57
+Subtask 43 (O1): ECU E3 Core 2, Start 43, Finish 47
+Subtask 44 (O2): ECU E1 Core 1, Start 47, Finish 49
+Subtask 45 (O3): ECU E2 Core 1, Start 49, Finish 61
+Subtask 46 (O4): ECU E3 Core 2, Start 61, Finish 65
+Subtask 47 (O1): ECU E1 Core 1, Start 49, Finish 61
+Subtask 48 (O2): ECU E4 Core 1, Start 51, Finish 59
+Subtask 49 (O3): ECU E4 Core 2, Start 53, Finish 55
+Subtask 50 (O4): ECU E4 Core 2, Start 55, Finish 59
+Load Imbalance: 29
+Objective Function Value: 0.1275
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+=== TestCase 20 ===
+Makespan: 75
+
+Schedule:
+Subtask 1 (O1): ECU E1 Core 1, Start 0, Finish 12
+Subtask 2 (O2): ECU E4 Core 2, Start 0, Finish 2
+Subtask 3 (O3): ECU E4 Core 2, Start 2, Finish 4
+Subtask 4 (O4): ECU E1 Core 1, Start 12, Finish 16
+Subtask 4 (O4): ECU E4 Core 2, Start 12, Finish 16
+Subtask 5 (O1): ECU E3 Core 2, Start 6, Finish 14
+Subtask 6 (O2): ECU E3 Core 1, Start 10, Finish 18
+Subtask 7 (O3): ECU E3 Core 2, Start 18, Finish 23
+Subtask 8 (O4): ECU E1 Core 1, Start 18, Finish 22
+Subtask 9 (O1): ECU E4 Core 2, Start 16, Finish 22
+Subtask 10 (O2): ECU E2 Core 1, Start 16, Finish 20
+Subtask 11 (O3): ECU E3 Core 1, Start 22, Finish 24
+Subtask 12 (O4): ECU E2 Core 1, Start 20, Finish 23
+Subtask 13 (O5): ECU E1 Core 1, Start 22, Finish 28
+Subtask 13 (O5): ECU E4 Core 1, Start 22, Finish 28
+Subtask 14 (O6): ECU E4 Core 2, Start 22, Finish 28
+Subtask 15 (O1): ECU E2 Core 1, Start 23, Finish 27
+Subtask 16 (O2): ECU E2 Core 1, Start 27, Finish 32
+Subtask 17 (O3): ECU E3 Core 2, Start 23, Finish 27
+Subtask 18 (O4): ECU E3 Core 1, Start 24, Finish 36
+Subtask 19 (O5): ECU E3 Core 2, Start 27, Finish 29
+Subtask 20 (O1): ECU E4 Core 1, Start 28, Finish 30
+Subtask 21 (O2): ECU E1 Core 1, Start 28, Finish 38
+Subtask 22 (O3): ECU E2 Core 1, Start 32, Finish 38
+Subtask 23 (O4): ECU E4 Core 2, Start 38, Finish 40
+Subtask 24 (O5): ECU E3 Core 2, Start 29, Finish 34
+Subtask 25 (O1): ECU E4 Core 1, Start 30, Finish 38
+Subtask 26 (O2): ECU E1 Core 1, Start 38, Finish 41
+Subtask 27 (O3): ECU E3 Core 2, Start 34, Finish 40
+Subtask 28 (O4): ECU E3 Core 1, Start 36, Finish 40
+Subtask 29 (O5): ECU E4 Core 1, Start 38, Finish 48
+Subtask 30 (O6): ECU E3 Core 1, Start 41, Finish 45
+Subtask 31 (O1): ECU E2 Core 1, Start 38, Finish 44
+Subtask 32 (O2): ECU E3 Core 1, Start 0, Finish 10
+Subtask 33 (O3): ECU E3 Core 2, Start 0, Finish 6
+Subtask 34 (O4): ECU E2 Core 1, Start 10, Finish 16
+Subtask 35 (O5): ECU E4 Core 1, Start 6, Finish 18
+Subtask 36 (O6): ECU E3 Core 2, Start 44, Finish 50
+Subtask 37 (O1): ECU E4 Core 2, Start 40, Finish 52
+Subtask 38 (O2): ECU E2 Core 1, Start 44, Finish 56
+Subtask 39 (O3): ECU E3 Core 1, Start 45, Finish 50
+Subtask 40 (O4): ECU E1 Core 1, Start 50, Finish 58
+Subtask 41 (O1): ECU E4 Core 1, Start 48, Finish 52
+Subtask 42 (O2): ECU E3 Core 1, Start 50, Finish 56
+Subtask 43 (O3): ECU E2 Core 1, Start 56, Finish 61
+Subtask 44 (O4): ECU E1 Core 1, Start 61, Finish 65
+Subtask 45 (O5): ECU E3 Core 2, Start 65, Finish 75
+Subtask 46 (O1): ECU E4 Core 1, Start 52, Finish 56
+Subtask 47 (O2): ECU E4 Core 2, Start 52, Finish 56
+Subtask 48 (O3): ECU E3 Core 1, Start 56, Finish 68
+Subtask 49 (O4): ECU E4 Core 1, Start 56, Finish 62
+Subtask 50 (O5): ECU E4 Core 2, Start 56, Finish 68
+Subtask 51 (O6): ECU E2 Core 1, Start 61, Finish 65
+Load Imbalance: 64
+Objective Function Value: 0.1872
+Elapsed Time (this testcase): 0.01 seconds
+Peak Memory Usage (this testcase): 0.013 MB
+Average Load Imbalance: 64.60
+
+Average Time per Testcase: 0.01 seconds
+Average Peak Memory Usage per Testcase: 0.020 MB
+Average Objective Function Value: 0.1990
+Average Makespan: 81.35
