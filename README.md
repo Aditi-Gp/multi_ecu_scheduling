@@ -1,1 +1,3 @@
 # multi_ecu_scheduling
+
+SOLVES THE PROBLEM OF MULTI - ECU SCHEDULING
