@@ -2,7 +2,7 @@
 
 This project explores scheduling strategies and algorithms for coordinating tasks across multiple Electronic Control Units (ECUs) in automotive and embedded systems. The repository provides reference implementations, scenario definitions, evaluation scripts, and documentation to help researchers and engineers prototype, compare, and evaluate scheduling approaches for distributed embedded systems.
 
-## Features
+## Feature
 
 - Reference implementations of scheduling algorithms (e.g., EDF, Rate Monotonic, custom heuristics)
 - Multi-ECU scenario definitions and task models
